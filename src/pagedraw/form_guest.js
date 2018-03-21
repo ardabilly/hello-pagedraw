@@ -13,7 +13,7 @@ function render() {
                 </div>
                 <div className="form_guest-0-0-1">
                     <div className="form_guest-text-0">
-                        Thanks for sending us your test
+                        Thanks for sending us your feedback
                     </div>
                 </div>
                 <div className="form_guest-0-0-2">
