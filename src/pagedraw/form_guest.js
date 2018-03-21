@@ -13,7 +13,7 @@ function render() {
                 </div>
                 <div className="form_guest-0-0-1">
                     <div className="form_guest-text-0">
-                        Thanks for sending us your feedback
+                        Please send us your feedback
                     </div>
                 </div>
                 <div className="form_guest-0-0-2">
@@ -25,7 +25,7 @@ function render() {
                 <div className="form_guest-0-0-4">
                     <div onClick={this.props.showAlert} className="form_guest-rectangle_2">
                         <div className="form_guest-0-0-4-0-0">
-                            <div className="form_guest-text_2">Send Message</div>
+                            <div className="form_guest-text_2">Send Feedback</div>
                         </div>
                     </div>
                 </div>

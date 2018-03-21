@@ -30,7 +30,7 @@ class App extends Component {
   }
 
   showAlert() {
-    alert(`Hi ${this.state.greet}, this is my message : ${this.state.message}`);
+    alert(`Hi my name ${this.state.greet}, thanks guys for ${this.state.message}`);
   }
 
   render() {
