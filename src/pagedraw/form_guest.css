@@ -130,6 +130,7 @@
     padding-top: 17px;
     padding-bottom: 17px;
     border-radius: 400px;
+    cursor: pointer;
     background: linear-gradient(35deg, rgb(79, 234, 231), rgb(104, 208, 70));
 }
 
